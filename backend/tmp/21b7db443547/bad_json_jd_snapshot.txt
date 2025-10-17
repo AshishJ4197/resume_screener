@@ -1,0 +1,248 @@
+```json
+{
+  "title": "Generative AI Engineer",
+  "must_haves": [
+    {
+      "token": "python",
+      "evidence": "Proficiency in Python",
+      "conf": 1.0
+    },
+    {
+      "token": "rest apis",
+      "evidence": "Familiarity with REST APIs",
+      "conf": 1.0
+    },
+    {
+      "token": "json",
+      "evidence": "Familiarity with REST APIs and JSON",
+      "conf": 1.0
+    },
+    {
+      "token": "neural networks",
+      "evidence": "Neural networks and transformers (BERT, GPT, etc.)",
+      "conf": 0.7
+    },
+    {
+      "token": "transformers",
+      "evidence": "Neural networks and transformers (BERT, GPT, etc.)",
+      "conf": 0.7
+    },
+    {
+      "token": "rag",
+      "evidence": "RAG (Retrieval Augmented Generation)",
+      "conf": 0.8
+    },
+    {
+      "token": "vector search",
+      "evidence": "Embeddings & vector search",
+      "conf": 0.8
+    },
+    {
+      "token": "embeddings",
+      "evidence": "Embeddings & vector search",
+      "conf": 0.8
+    },
+    {
+      "token": "fine-tuning",
+      "evidence": "Fine-tuning and model evaluation",
+      "conf": 0.8
+    },
+    {
+      "token": "model evaluation",
+      "evidence": "Fine-tuning and model evaluation",
+      "conf": 0.8
+    },
+    {
+      "token": "nosql",
+      "evidence": "Familiarity with NoSQL / vector databases",
+      "conf": 0.7
+    },
+    {
+      "token": "vector databases",
+      "evidence": "Familiarity with NoSQL / vector databases",
+      "conf": 0.7
+    },
+    {
+      "token": "problem-solving",
+      "evidence": "Strong problem-solving and analytical abilities.",
+      "conf": 0.9
+    },
+    {
+      "token": "analytical abilities",
+      "evidence": "Strong problem-solving and analytical abilities.",
+      "conf": 0.9
+    },
+    {
+      "token": "communication skills",
+      "evidence": "Good written and verbal communication skills",
+      "conf": 0.8
+    }
+  ],
+  "required": [
+    {
+      "token": "generative ai",
+      "evidence": "Generative AI Engineer",
+      "conf": 1.0
+    },
+    {
+      "token": "large language models",
+      "evidence": "designing, fine-tuning, and deploying large language model (LLM)-based applications",
+      "conf": 0.9
+    },
+    {
+      "token": "prompt engineering",
+      "evidence": "NLP, and prompt engineering",
+      "conf": 0.9
+    },
+    {
+      "token": "data preprocessing",
+      "evidence": "data preprocessing",
+      "conf": 0.8
+    },
+    {
+      "token": "text embeddings",
+      "evidence": "text embeddings",
+      "conf": 0.8
+    },
+    {
+      "token": "tokenization",
+      "evidence": "tokenization",
+      "conf": 0.8
+    },
+    {
+      "token": "fastapi",
+      "evidence": "Knowledge of FastAPI or Flask for backend integration.",
+      "conf": 0.7
+    },
+    {
+      "token": "flask",
+      "evidence": "Knowledge of FastAPI or Flask for backend integration.",
+      "conf": 0.7
+    }
+  ],
+  "preferred": [
+    {
+      "token": "langgraph",
+      "evidence": "Experience with LangGraph, CrewAI, or OpenDevin-style agent frameworks.",
+      "conf": 0.6
+    },
+    {
+      "token": "crewai",
+      "evidence": "Experience with LangGraph, CrewAI, or OpenDevin-style agent frameworks.",
+      "conf": 0.6
+    },
+    {
+      "token": "mlops",
+      "evidence": "Exposure to MLOps pipelines (Docker, MLflow, Hugging Face Hub).",
+      "conf": 0.6
+    },
+    {
+      "token": "docker",
+      "evidence": "Exposure to MLOps pipelines (Docker, MLflow, Hugging Face Hub).",
+      "conf": 0.6
+    },
+    {
+      "token": "mlflow",
+      "evidence": "Exposure to MLOps pipelines (Docker, MLflow, Hugging Face Hub).",
+      "conf": 0.6
+    },
+    {
+      "token": "pdf parsing",
+      "evidence": "Knowledge of document loaders, PDF parsing, or knowledge base QA systems.",
+      "conf": 0.5
+    },
+    {
+      "token": "prompt optimization",
+      "evidence": "Understanding of prompt optimization, few-shot learning, and tool use in LLMs.",
+      "conf": 0.6
+    },
+    {
+      "token": "few-shot learning",
+      "evidence": "Understanding of prompt optimization, few-shot learning, and tool use in LLMs.",
+      "conf": 0.6
+    }
+  ],
+  "responsibilities": [
+    {
+      "phrase": "design and implement llm-powered applications",
+      "evidence": "Design and implement LLM-powered applications",
+      "conf": 0.9
+    },
+    {
+      "phrase": "develop prompt engineering pipelines",
+      "evidence": "Develop prompt engineering pipelines",
+      "conf": 0.9
+    },
+    {
+      "phrase": "work with vector databases",
+      "evidence": "Work with vector databases",
+      "conf": 0.9
+    },
+    {
+      "phrase": "fine-tune or adapt open-source llms",
+      "evidence": "Fine-tune or adapt open-source LLMs",
+      "conf": 0.9
+    },
+    {
+      "phrase": "integrate ai apis into web or backend systems",
+      "evidence": "Integrate AI APIs into web or backend systems.",
+      "conf": 0.9
+    },
+    {
+      "phrase": "collaborate with backend teams to deploy ai models",
+      "evidence": "Collaborate with backend teams to deploy AI models",
+      "conf": 0.9
+    },
+    {
+      "phrase": "analyze and evaluate model performance",
+      "evidence": "Analyze and evaluate model performance",
+      "conf": 0.9
+    },
+    {
+      "phrase": "write efficient, production-quality python code",
+      "evidence": "Write efficient, production-quality Python code",
+      "conf": 0.9
+    },
+    {
+      "phrase": "stay up-to-date with advancements in generative ai",
+      "evidence": "Stay up-to-date with advancements in Generative AI",
+      "conf": 0.9
+    }
+  ],
+  "hard_gates": {
+    "degree_required": {
+      "value": true,
+      "evidence": "B.E. / B.Tech / M.Tech / MCA in Computer Science, Artificial Intelligence, Data Science, or related fields."
+    },
+    "min_years": {
+      "value": 0,
+      "evidence": "Experience: 0â€“1 Years"
+    },
+    "license": [],
+    "work_auth": {
+      "value": null,
+      "evidence": ""
+    },
+    "clearance": {
+      "value": null,
+      "evidence": ""
+    },
+    "location_mode": {
+      "value": null,
+      "evidence": ""
+    },
+    "onsite_city": {
+      "value": null,
+      "evidence": ""
+    },
+    "shift": {
+      "value": null,
+      "evidence": ""
+    },
+    "travel": {
+      "value": null,
+      "evidence": ""
+    }
+  }
+}
+```

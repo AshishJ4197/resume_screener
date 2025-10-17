@@ -1,0 +1,258 @@
+```json
+{
+  "title": "Generative AI Engineer",
+  "must_haves": [
+    {
+      "token": "python",
+      "evidence": "Proficiency in Python",
+      "conf": 1.0
+    },
+    {
+      "token": "rest apis",
+      "evidence": "Familiarity with REST APIs",
+      "conf": 0.8
+    },
+    {
+      "token": "json",
+      "evidence": "Familiarity with REST APIs and JSON",
+      "conf": 0.8
+    },
+    {
+      "token": "neural networks",
+      "evidence": "Neural networks and transformers (BERT, GPT, etc.)",
+      "conf": 0.7
+    },
+    {
+      "token": "transformers",
+      "evidence": "Neural networks and transformers (BERT, GPT, etc.)",
+      "conf": 0.7
+    },
+    {
+      "token": "rag",
+      "evidence": "RAG (Retrieval Augmented Generation)",
+      "conf": 0.9
+    },
+    {
+      "token": "embeddings",
+      "evidence": "Embeddings & vector search",
+      "conf": 0.8
+    },
+    {
+      "token": "vector search",
+      "evidence": "Embeddings & vector search",
+      "conf": 0.8
+    },
+    {
+      "token": "fine-tuning",
+      "evidence": "Fine-tuning and model evaluation",
+      "conf": 0.8
+    },
+    {
+      "token": "model evaluation",
+      "evidence": "Fine-tuning and model evaluation",
+      "conf": 0.8
+    },
+    {
+      "token": "nosql databases",
+      "evidence": "Familiarity with NoSQL / vector databases",
+      "conf": 0.7
+    },
+    {
+      "token": "vector databases",
+      "evidence": "Familiarity with NoSQL / vector databases",
+      "conf": 0.7
+    },
+    {
+      "token": "fastapi",
+      "evidence": "Knowledge of FastAPI or Flask for backend integration.",
+      "conf": 0.7
+    },
+    {
+      "token": "flask",
+      "evidence": "Knowledge of FastAPI or Flask for backend integration.",
+      "conf": 0.7
+    },
+    {
+      "token": "problem-solving",
+      "evidence": "Strong problem-solving and analytical abilities.",
+      "conf": 0.8
+    },
+    {
+      "token": "analytical abilities",
+      "evidence": "Strong problem-solving and analytical abilities.",
+      "conf": 0.8
+    },
+    {
+      "token": "communication skills",
+      "evidence": "Good written and verbal communication skills",
+      "conf": 0.7
+    }
+  ],
+  "required": [
+    {
+      "token": "langchain",
+      "evidence": "libraries like transformers, torch, langchain",
+      "conf": 0.8
+    },
+    {
+      "token": "jupyter notebooks",
+      "evidence": "Experience with Jupyter Notebooks or VS Code for experimentation.",
+      "conf": 0.7
+    },
+    {
+      "token": "data preprocessing",
+      "evidence": "Understanding of data preprocessing, text embeddings, and tokenization.",
+      "conf": 0.7
+    },
+    {
+      "token": "text embeddings",
+      "evidence": "Understanding of data preprocessing, text embeddings, and tokenization.",
+      "conf": 0.7
+    },
+    {
+      "token": "tokenization",
+      "evidence": "Understanding of data preprocessing, text embeddings, and tokenization.",
+      "conf": 0.7
+    },
+    {
+      "token": "hugging face",
+      "evidence": "Awareness of Hugging Face ecosystem",
+      "conf": 0.7
+    },
+    {
+      "token": "openai api",
+      "evidence": "Awareness of Hugging Face ecosystem and OpenAI API usage.",
+      "conf": 0.7
+    },
+    {
+      "token": "cloud services",
+      "evidence": "Basic understanding of cloud services (AWS, GCP, or Azure).",
+      "conf": 0.6
+    },
+    {
+      "token": "computer science",
+      "evidence": "B.E. / B.Tech / M.Tech / MCA in Computer Science",
+      "conf": 0.7
+    },
+    {
+      "token": "artificial intelligence",
+      "evidence": "B.E. / B.Tech / M.Tech / MCA in Artificial Intelligence",
+      "conf": 0.7
+    },
+    {
+      "token": "data science",
+      "evidence": "B.E. / B.Tech / M.Tech / MCA in Data Science",
+      "conf": 0.7
+    },
+    {
+      "token": "mathematics",
+      "evidence": "Good understanding of Mathematics, Statistics, and Machine Learning fundamentals.",
+      "conf": 0.7
+    },
+    {
+      "token": "statistics",
+      "evidence": "Good understanding of Mathematics, Statistics, and Machine Learning fundamentals.",
+      "conf": 0.7
+    },
+    {
+      "token": "machine learning",
+      "evidence": "Good understanding of Mathematics, Statistics, and Machine Learning fundamentals.",
+      "conf": 0.7
+    }
+  ],
+  "preferred": [
+    {
+      "token": "mlops",
+      "evidence": "Exposure to MLOps pipelines (Docker, MLflow, Hugging Face Hub).",
+      "conf": 0.6
+    },
+    {
+      "token": "docker",
+      "evidence": "Exposure to MLOps pipelines (Docker, MLflow, Hugging Face Hub).",
+      "conf": 0.5
+    }
+  ],
+  "responsibilities": [
+    {
+      "phrase": "design and implement llm-powered applications",
+      "evidence": "Design and implement LLM-powered applications",
+      "conf": 0.9
+    },
+    {
+      "phrase": "develop prompt engineering pipelines",
+      "evidence": "Develop prompt engineering pipelines",
+      "conf": 0.9
+    },
+    {
+      "phrase": "work with vector databases",
+      "evidence": "Work with vector databases",
+      "conf": 0.9
+    },
+    {
+      "phrase": "fine-tune or adapt open-source llms",
+      "evidence": "Fine-tune or adapt open-source LLMs",
+      "conf": 0.9
+    },
+    {
+      "phrase": "integrate ai apis into web or backend systems",
+      "evidence": "Integrate AI APIs into web or backend systems.",
+      "conf": 0.9
+    },
+    {
+      "phrase": "collaborate with backend teams to deploy ai models",
+      "evidence": "Collaborate with backend teams to deploy AI models",
+      "conf": 0.9
+    },
+    {
+      "phrase": "analyze and evaluate model performance",
+      "evidence": "Analyze and evaluate model performance",
+      "conf": 0.9
+    },
+    {
+      "phrase": "write efficient, production-quality python code",
+      "evidence": "Write efficient, production-quality Python code",
+      "conf": 0.9
+    },
+    {
+      "phrase": "stay up-to-date with advancements in generative ai",
+      "evidence": "Stay up-to-date with advancements in Generative AI",
+      "conf": 0.9
+    }
+  ],
+  "hard_gates": {
+    "degree_required": {
+      "value": true,
+      "evidence": "B.E. / B.Tech / M.Tech / MCA in Computer Science, Artificial Intelligence, Data Science, or related fields."
+    },
+    "min_years": {
+      "value": 0,
+      "evidence": "Experience: 0â€“1 Years"
+    },
+    "license": [],
+    "work_auth": {
+      "value": null,
+      "evidence": ""
+    },
+    "clearance": {
+      "value": null,
+      "evidence": ""
+    },
+    "location_mode": {
+      "value": null,
+      "evidence": ""
+    },
+    "onsite_city": {
+      "value": null,
+      "evidence": ""
+    },
+    "shift": {
+      "value": null,
+      "evidence": ""
+    },
+    "travel": {
+      "value": null,
+      "evidence": ""
+    }
+  }
+}
+```

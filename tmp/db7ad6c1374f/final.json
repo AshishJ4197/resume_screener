@@ -1,0 +1,55 @@
+{
+  "score_100": 40,
+  "selected": false,
+  "breakdown": {
+    "must_have_coverage": 0.0,
+    "required_coverage": 15.88,
+    "preferred_coverage": 6.99,
+    "role_alignment": 2.21,
+    "project_alignment": 3.1,
+    "evidence_depth": 0.75,
+    "seniority_fit": 8.0,
+    "responsibility_overlap": 3.4,
+    "soft_penalties": {
+      "missing_many_must_haves": 0,
+      "degree_missing_penalty": 0,
+      "zero_metrics_penalty": 0,
+      "location_penalty": 0
+    },
+    "hard_gate_cap": null
+  },
+  "reasons": [
+    "Must-have coverage: 0% ; Required: 88% ; Preferred: 87%",
+    "Experience: 0.17 yrs (JD years not specified).",
+    "Responsibilities overlap≈85% ; Evidence signals=1.",
+    "Role alignment≈12% ; Project alignment≈39%."
+  ],
+  "strong_matches": [
+    "algorithms",
+    "arrays",
+    "build systems",
+    "c++",
+    "concurrency",
+    "data structures",
+    "dynamic programming",
+    "exception handling",
+    "file handling",
+    "git",
+    "graphs",
+    "i/o streams",
+    "maps",
+    "pointers",
+    "queues",
+    "searching",
+    "smart pointers",
+    "software design principles",
+    "sorting",
+    "stack/heap"
+  ],
+  "skill_gaps": [],
+  "risk_flags": [],
+  "gates": {
+    "failed": [],
+    "notes": []
+  }
+}

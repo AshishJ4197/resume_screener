@@ -1,0 +1,65 @@
+```json
+{
+  "contacts": {
+    "name": null,
+    "email": null,
+    "phone": null,
+    "links": []
+  },
+  "education": [
+    {
+      "degree": "B.Tech",
+      "field": "Computer Science & Engineering (Specialization: AI & ML)",
+      "institution": "Vellore Institute of Technology, Chennai",
+      "start": 2022,
+      "end": null,
+      "location": "Chennai",
+      "evidence": "CGPA: 9.30"
+    },
+    {
+      "degree": "Higher Secondary Board Examination",
+      "field": null,
+      "institution": "Velammal Vidyalaya, Chennai",
+      "start": 2020,
+      "end": 2022,
+      "location": "Chennai",
+      "evidence": "Final grade: 91.3%"
+    },
+    {
+      "degree": "Secondary Board Examination",
+      "field": null,
+      "institution": "Arya Central School, Trivandrum",
+      "start": 2018,
+      "end": 2020,
+      "location": "Trivandrum",
+      "evidence": "Final grade: 95.6%"
+    }
+  ],
+  "experience": [
+    {
+      "title": "AI/ML & Backend Development Intern",
+      "company": "Primesoft Enterprise IT Services Pvt. Ltd.",
+      "location": "Chennai",
+      "start": "May 2025",
+      "end": "Jul 2025",
+      "highlights": [
+        "Contributed to “AI Interview”, an AI-driven chatbot application to automate technical interview processes for enterprises.",
+        "Developed backend APIs using FastAPI, ensuring high-performance data handling.",
+        "Managed PostgreSQL (relational) and Neo4j (graph) databases with optimized query performance.",
+        "Integrated LangChain and LangGraph for dynamic question flow and AI-driven evaluation.",
+        "Implemented automated scoring algorithms and candidate evaluation logic, improving interview efficiency by 25%.",
+        "Collaborated with cross-functional teams for scalable deployment and UI/UX optimization."
+      ],
+      "evidence": null
+    }
+  ],
+  "projects": [],
+  "skills": [],
+  "certifications": [],
+  "awards": [],
+  "locations": [
+    "Chennai",
+    "Trivandrum"
+  ]
+}
+```

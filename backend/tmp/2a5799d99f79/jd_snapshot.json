@@ -1,0 +1,41 @@
+{
+  "title": null,
+  "must_haves": [],
+  "required": [],
+  "preferred": [],
+  "responsibilities": [],
+  "hard_gates": {
+    "degree_required": false,
+    "min_years": null,
+    "license": [],
+    "work_auth": null,
+    "clearance": null,
+    "location_mode": null,
+    "onsite_city": null,
+    "shift": null,
+    "travel": null
+  },
+  "evidence": {
+    "must": {},
+    "req": {},
+    "pref": {},
+    "resp": {}
+  },
+  "conf": {
+    "must": {},
+    "req": {},
+    "pref": {},
+    "resp": {}
+  },
+  "hard_gate_evidence": {
+    "degree_required": null,
+    "min_years": null,
+    "license": null,
+    "work_auth": null,
+    "clearance": null,
+    "location_mode": null,
+    "onsite_city": null,
+    "shift": null,
+    "travel": null
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "c_00",
+    "semantic": 0.7196,
+    "lexical": 1.0,
+    "hybrid": 0.8318
+  },
+  {
+    "id": "c_03",
+    "semantic": 0.6784,
+    "lexical": 0.8634,
+    "hybrid": 0.7524
+  },
+  {
+    "id": "c_02",
+    "semantic": 0.6422,
+    "lexical": 0.445,
+    "hybrid": 0.5633
+  },
+  {
+    "id": "c_01",
+    "semantic": 0.6691,
+    "lexical": 0.6,
+    "hybrid": 0.6414
+  }
+]

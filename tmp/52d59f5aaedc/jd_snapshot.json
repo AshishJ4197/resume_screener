@@ -1,0 +1,95 @@
+{
+  "title": "Associate Software Engineer (C++ Developer - Fresher)",
+  "must_haves": [
+    "c++",
+    "object-oriented programming",
+    "memory management",
+    "stl",
+    "exception handling",
+    "file handling",
+    "multithreading",
+    "data structures",
+    "algorithms",
+    "cmake",
+    "git",
+    "sdlc"
+  ],
+  "required": [],
+  "preferred": [
+    "linux",
+    "unix",
+    "json",
+    "protobuf",
+    "unit testing",
+    "gtest",
+    "compilers"
+  ],
+  "responsibilities": [
+    "design, implement, and maintain software components and applications using c++ (c++11/14/17).",
+    "collaborate with senior engineers to translate requirements into efficient, reliable, and scalable code.",
+    "debug, profile, and optimize c++ applications for performance and memory usage.",
+    "write clean, modular, and well-documented code following object-oriented programming and design patterns.",
+    "participate in code reviews, unit testing, and integration testing to ensure high-quality deliverables.",
+    "work with cross-functional teams (qa, devops, product) to deliver production-grade software.",
+    "assist in maintaining build systems (cmake, make, or similar) and version control (git).",
+    "stay updated with modern c++ features, libraries, and industry best practices."
+  ],
+  "hard_gates": {
+    "degree_required": true,
+    "min_years": 0,
+    "license": [],
+    "work_auth": null,
+    "clearance": null,
+    "location_mode": "remote",
+    "onsite_city": null,
+    "shift": null,
+    "travel": null
+  },
+  "evidence": {
+    "must": {
+      "c++": "We are seeking a C++ Developer (Associate Software Engineer) with strong programming fundamentals",
+      "object-oriented programming": "Write clean, modular, and well-documented code following object-oriented programming and design patterns.",
+      "memory management": "Memory Management (pointers, smart pointers, stack/heap)",
+      "stl": "Templates and STL (Standard Template Library)",
+      "exception handling": "Exception handling",
+      "file handling": "File handling and I/O streams",
+      "multithreading": "Multithreading and concurrency (std::thread, mutex, etc.)",
+      "data structures": "Understanding of Data Structures (arrays, linked lists, stacks, queues, maps, trees, graphs).",
+      "algorithms": "Familiarity with Algorithms (sorting, searching, dynamic programming, greedy, etc.).",
+      "cmake": "Hands-on experience with CMake or other build systems.",
+      "git": "Exposure to version control tools like Git/GitHub.",
+      "sdlc": "Basic understanding of software design principles and SDLC (Software Development Life Cycle)."
+    },
+    "req": {},
+    "pref": {
+      "linux": "Familiarity with Linux/Unix environment and shell commands.",
+      "unix": "Familiarity with Linux/Unix environment and shell commands.",
+      "json": "Basic understanding of data serialization (JSON, Protobuf).",
+      "protobuf": "Basic understanding of data serialization (JSON, Protobuf).",
+      "unit testing": "Awareness of CI/CD pipelines and unit testing frameworks (GoogleTest, Catch2).",
+      "gtest": "Awareness of CI/CD pipelines and unit testing frameworks (GoogleTest, Catch2).",
+      "compilers": "Knowledge of C++ compilers (GCC, Clang, MSVC) and debugging tools (gdb, valgrind)."
+    },
+    "resp": {
+      "design, implement, and maintain software components and applications using c++ (c++11/14/17).": "Design, implement, and maintain software components and applications using C++ (C++11/14/17).",
+      "collaborate with senior engineers to translate requirements into efficient, reliable, and scalable code.": "Collaborate with senior engineers to translate requirements into efficient, reliable, and scalable code.",
+      "debug, profile, and optimize c++ applications for performance and memory usage.": "Debug, profile, and optimize C++ applications for performance and memory usage.",
+      "write clean, modular, and well-documented code following object-oriented programming and design patterns.": "Write clean, modular, and well-documented code following object-oriented programming and design patterns.",
+      "participate in code reviews, unit testing, and integration testing to ensure high-quality deliverables.": "Participate in code reviews, unit testing, and integration testing to ensure high-quality deliverables.",
+      "work with cross-functional teams (qa, devops, product) to deliver production-grade software.": "Work with cross-functional teams (QA, DevOps, Product) to deliver production-grade software.",
+      "assist in maintaining build systems (cmake, make, or similar) and version control (git).": "Assist in maintaining build systems (CMake, Make, or similar) and version control (Git).",
+      "stay updated with modern c++ features, libraries, and industry best practices.": "Stay updated with modern C++ features, libraries, and industry best practices."
+    }
+  },
+  "hard_gate_evidence": {
+    "degree_required": "B.E. / B.Tech / M.Tech / MCA in Computer Science, Information Technology, or a related field.",
+    "min_years": "Experience: 0–1 Years",
+    "license": "",
+    "work_auth": "",
+    "clearance": "",
+    "location_mode": "Location: [Bangalore / Pune / Hyderabad / Remote]",
+    "onsite_city": "",
+    "shift": "",
+    "travel": ""
+  }
+}

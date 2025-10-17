@@ -1,0 +1,196 @@
+{
+  "c_01": {
+    "contacts": {
+      "name": null,
+      "email": null,
+      "phone": null,
+      "links": []
+    },
+    "education": [],
+    "experience": [],
+    "projects": [
+      {
+        "name": "Real-Time Stock Prediction System",
+        "tech": [
+          "AWS",
+          "SageMaker",
+          "S3",
+          "Amplify",
+          "Random Forest Regressor"
+        ],
+        "impact": null,
+        "links": []
+      },
+      {
+        "name": "Simon Says Game",
+        "tech": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "impact": null,
+        "links": []
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C++",
+      "C",
+      "LangChain",
+      "LangGraph",
+      "CrewAI",
+      "ChatOllama",
+      "FAISS",
+      "RAG Pipelines",
+      "Prompt Engineering",
+      "Vector Databases",
+      ".NET",
+      "FastAPI",
+      "Node.js",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "Bootstrap",
+      "jQuery",
+      "JavaScript",
+      "SQL",
+      "MySQL",
+      "PostgreSQL",
+      "Neo4j",
+      "Android Studio",
+      "Unity",
+      "Latex",
+      "Power BI",
+      "AWS",
+      "Object-Oriented Programming (OOP)",
+      "Machine Learning",
+      "Pandas",
+      "OpenCV",
+      "Git"
+    ],
+    "certifications": [],
+    "awards": [],
+    "locations": []
+  },
+  "c_00": {
+    "contacts": {
+      "name": "JALADI ASHISH",
+      "email": "ashujaladi5995@gmail.com",
+      "phone": "+91 9493110947",
+      "links": [
+        "https://www.linkedin.com/in/ashish-jaladi-046a3b24a/"
+      ]
+    },
+    "education": [
+      {
+        "degree": "B.Tech",
+        "field": "Computer Science & Engineering (Specialization: AI & ML)",
+        "institution": "Vellore Institute of Technology, Chennai",
+        "start": 2022,
+        "end": null,
+        "location": null
+      },
+      {
+        "degree": null,
+        "field": null,
+        "institution": "Velammal Vidyalaya, Chennai",
+        "start": 2020,
+        "end": 2022,
+        "location": null
+      },
+      {
+        "degree": null,
+        "field": null,
+        "institution": "Arya Central School, Trivandrum",
+        "start": 2018,
+        "end": 2020,
+        "location": null
+      }
+    ],
+    "experience": [
+      {
+        "title": "AI/ML & Backend Development Intern",
+        "company": "Primesoft Enterprise IT Services Pvt. Ltd.",
+        "location": "Chennai",
+        "start": "May 2025",
+        "end": "Jul 2025",
+        "highlights": [
+          "Contributed to “AI Interview”, an AI-driven chatbot application to automate technical interview processes for enterprises.",
+          "Developed backend APIs using FastAPI, ensuring high-performance data handling.",
+          "Managed PostgreSQL (relational) and Neo4j (graph) databases with optimized query performance.",
+          "Integrated LangChain and LangGraph for dynamic question flow and AI-driven evaluation.",
+          "Implemented automated scoring algorithms and candidate evaluation logic, improving interview efficiency by 25%.",
+          "Collaborated with cross-functional teams for scalable deployment and UI/UX optimization."
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Smart Document Chat – AI-powered PDF Q&A System",
+        "tech": [
+          "Python",
+          "React",
+          "LangChain",
+          "LangGraph",
+          "FAISS",
+          "PyMuPDF",
+          "PDF.js"
+        ],
+        "impact": null,
+        "links": []
+      },
+      {
+        "name": "Landslide Detection Using Image Segmentation",
+        "tech": [
+          "Python",
+          "UNet",
+          "Transformer",
+          "CRFF"
+        ],
+        "impact": null,
+        "links": []
+      },
+      {
+        "name": "Real-Time Stock Prediction System",
+        "tech": [
+          "AWS",
+          "SageMaker",
+          "S3",
+          "Amplify",
+          "Random Forest Regressor"
+        ],
+        "impact": null,
+        "links": []
+      }
+    ],
+    "skills": [
+      "Python",
+      "Java",
+      "C++",
+      "deep learning",
+      "natural language processing (NLP)",
+      "computer vision",
+      "backend development",
+      "modern web frameworks",
+      "LLM integration",
+      "Retrieval- Augmented Generation (RAG)",
+      "LangChain",
+      "LangGraph",
+      "vector database optimization",
+      "full-stack development",
+      "API integration",
+      "database management",
+      "Generative AI",
+      "transformer models",
+      "scalable backend architectures"
+    ],
+    "certifications": [],
+    "awards": [],
+    "locations": [
+      "Chennai",
+      "Trivandrum"
+    ]
+  }
+}

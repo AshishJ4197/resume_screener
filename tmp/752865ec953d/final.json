@@ -1,0 +1,59 @@
+{
+  "score_100": 51,
+  "selected": true,
+  "breakdown": {
+    "must_have_coverage": 22.0,
+    "required_coverage": 0.0,
+    "preferred_coverage": 0.0,
+    "role_alignment": 0.0,
+    "project_alignment": 4.53,
+    "evidence_depth": 0.75,
+    "seniority_fit": 8.0,
+    "responsibility_overlap": 6.0,
+    "complexity_bonus_points": 9.6,
+    "soft_penalties": {
+      "missing_many_must_haves": 0,
+      "degree_missing_penalty": 0,
+      "zero_metrics_penalty": 0,
+      "location_penalty": 0
+    },
+    "hard_gate_cap": null
+  },
+  "reasons": [
+    "Must-have coverage: 100% ; Required: 0% ; Preferred: 0%",
+    "Responsibilities overlap≈100% ; Evidence signals=1.",
+    "Role alignment≈0% ; Project alignment≈45%.",
+    "Portfolio bonus: +9.6 pts from complex/transferable projects."
+  ],
+  "strong_matches": [
+    "chromadb",
+    "cloud services",
+    "data preprocessing",
+    "embeddings",
+    "fastapi",
+    "fine-tuning",
+    "flask",
+    "hugging face",
+    "json",
+    "jupyter notebooks",
+    "langchain",
+    "model evaluation",
+    "neural networks",
+    "nosql",
+    "openai api",
+    "python",
+    "rag",
+    "rest apis",
+    "sentence-transformers",
+    "text embeddings"
+  ],
+  "skill_gaps": [],
+  "risk_flags": [
+    "Years of experience could not be inferred"
+  ],
+  "narrative": {
+    "present_summary": "Strong alignment on: nosql, transformers, json, python, rest apis, fastapi, cloud services, torch Responsibilities overlap ≈ 100% with relevant role/project signals.",
+    "gaps_summary": "Consider updating the resume to explicitly evidence missing skills or credentials and add measurable outcomes.",
+    "bonus_summary": "Notable transferable work: Smart Document Chat – AI-powered PDF Q&A System (complexity 70%, transferability 90%); Landslide Detection Using Image Segmentation (complexity 60%, transferability 20%); Real-Time Stock Prediction System (complexity 50%, transferability 30%) These experiences suggest solid problem-solving and practical exposure that can ramp into the role quickly."
+  }
+}

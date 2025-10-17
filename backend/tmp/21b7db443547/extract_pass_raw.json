@@ -1,0 +1,118 @@
+{
+  "c_00": {
+    "contacts": {
+      "name": "JALADI ASHISH",
+      "email": "ashujaladi5995@gmail.com",
+      "phone": "+91 9493110947",
+      "links": [
+        "https://www.linkedin.com/in/ashish-jaladi-046a3b24a/"
+      ]
+    },
+    "education": [],
+    "experience": [],
+    "projects": [],
+    "skills": [
+      "Python",
+      "Java",
+      "C++",
+      "deep learning",
+      "natural language processing (NLP)",
+      "computer vision",
+      "backend development",
+      "modern web frameworks",
+      "LLM integration",
+      "Retrieval- Augmented Generation (RAG)",
+      "LangChain",
+      "LangGraph",
+      "vector database optimization",
+      "full-stack development",
+      "API integration",
+      "database management",
+      "Generative AI",
+      "transformer models",
+      "scalable backend architectures"
+    ],
+    "certifications": [],
+    "awards": [],
+    "locations": []
+  },
+  "c_03": {},
+  "c_02": {
+    "contacts": {
+      "name": null,
+      "email": null,
+      "phone": null,
+      "links": []
+    },
+    "education": [],
+    "experience": [],
+    "projects": [
+      {
+        "name": "Smart Document Chat – AI-powered PDF Q&A System",
+        "tech": [
+          "Python",
+          "React",
+          "LangChain",
+          "LangGraph",
+          "FAISS",
+          "PyMuPDF",
+          "PDF.js"
+        ],
+        "impact": null,
+        "duration": null,
+        "role": null,
+        "links": [],
+        "evidence": "Built an interactive chatbot assistant capable of answering questions with textbook-style responses and sentence-\nlevel evidence highlighting directly in PDFs.\n\nDesigned a two-pass RAG pipeline using LangChain + LangGraph with FAISS for retrieval and reasoning + teaching\nanswer generation.\n\nImplemented spaCy + syntok-based segmentation with structural repair and coverage-aware cleaning for precise\nevidence mapping.\n\nIntegrated a React frontend with PDF.js for seamless navigation, page-level scrolling, and robust annotation\ndisplay."
+      },
+      {
+        "name": "Landslide Detection Using Image Segmentation",
+        "tech": [
+          "Python",
+          "UNet",
+          "Transformer",
+          "CRFF"
+        ],
+        "impact": null,
+        "duration": null,
+        "role": null,
+        "links": [],
+        "evidence": "Developed a UNet-based segmentation model with transformer and cross-feature fusion for satellite imagery\nanalysis.\n\nAchieved F1-score 93.8% and IoU 83.5% on Landslide4Sense dataset, surpassing benchmarks.\n\nUsed coordinate attention blocks and edge enhancement for improved precision.\n\nProcessed 14-band HDF5-formatted images for training and evaluation."
+      },
+      {
+        "name": "Real-Time Stock Prediction System",
+        "tech": [
+          "AWS",
+          "SageMaker",
+          "S3",
+          "Amplify",
+          "Random Forest Regressor"
+        ],
+        "impact": null,
+        "duration": null,
+        "role": null,
+        "links": [],
+        "evidence": "Built a cloud-based system for real-time stock price prediction and Bollinger Band-based volatility analysis.\nTrained and deployed a Random Forest Regressor on AWS SageMaker using historical market data for robust\nforecasting.\nUtilized Lambda, Kinesis, Step Functions, and DynamoDB for scalable automation and real-time data processing."
+      },
+      {
+        "name": "Simon Says Game",
+        "tech": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "impact": null,
+        "duration": null,
+        "role": null,
+        "links": [
+          "demo"
+        ],
+        "evidence": "Built an interactive Simon Says game with engaging and dynamic gameplay.\nImplemented intuitive user interfaces for smooth interaction and visual feedback.\nAdded a navigation system to a separate page for game rules, with responsive design and flashing buttons to show\nuser presses."
+      }
+    ],
+    "skills": [],
+    "certifications": [],
+    "awards": [],
+    "locations": []
+  },
+  "c_01": {}
+}

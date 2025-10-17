@@ -1,0 +1,173 @@
+{
+  "title": "Generative AI Engineer",
+  "must_haves": [
+    "python",
+    "rest apis",
+    "json",
+    "neural networks",
+    "transformers",
+    "rag",
+    "vector search",
+    "embeddings",
+    "fine-tuning",
+    "model evaluation",
+    "nosql",
+    "vector databases",
+    "problem-solving",
+    "analytical abilities",
+    "communication skills"
+  ],
+  "required": [
+    "generative ai",
+    "large language models",
+    "prompt engineering",
+    "data preprocessing",
+    "text embeddings",
+    "tokenization",
+    "fastapi",
+    "flask"
+  ],
+  "preferred": [
+    "langgraph",
+    "crewai",
+    "mlops",
+    "docker",
+    "mlflow",
+    "pdf parsing",
+    "prompt optimization",
+    "few-shot learning"
+  ],
+  "responsibilities": [
+    "design and implement llm-powered applications",
+    "develop prompt engineering pipelines",
+    "work with vector databases",
+    "fine-tune or adapt open-source llms",
+    "integrate ai apis into web or backend systems",
+    "collaborate with backend teams to deploy ai models",
+    "analyze and evaluate model performance",
+    "write efficient, production-quality python code",
+    "stay up-to-date with advancements in generative ai"
+  ],
+  "hard_gates": {
+    "degree_required": true,
+    "min_years": 0,
+    "license": [],
+    "work_auth": null,
+    "clearance": null,
+    "location_mode": null,
+    "onsite_city": null,
+    "shift": null,
+    "travel": null
+  },
+  "evidence": {
+    "must": {
+      "python": "Proficiency in Python",
+      "rest apis": "Familiarity with REST APIs",
+      "json": "Familiarity with REST APIs and JSON",
+      "neural networks": "Neural networks and transformers (BERT, GPT, etc.)",
+      "transformers": "Neural networks and transformers (BERT, GPT, etc.)",
+      "rag": "RAG (Retrieval Augmented Generation)",
+      "vector search": "Embeddings & vector search",
+      "embeddings": "Embeddings & vector search",
+      "fine-tuning": "Fine-tuning and model evaluation",
+      "model evaluation": "Fine-tuning and model evaluation",
+      "nosql": "Familiarity with NoSQL / vector databases",
+      "vector databases": "Familiarity with NoSQL / vector databases",
+      "problem-solving": "Strong problem-solving and analytical abilities.",
+      "analytical abilities": "Strong problem-solving and analytical abilities.",
+      "communication skills": "Good written and verbal communication skills"
+    },
+    "req": {
+      "generative ai": "Generative AI Engineer",
+      "large language models": "designing, fine-tuning, and deploying large language model (LLM)-based applications",
+      "prompt engineering": "NLP, and prompt engineering",
+      "data preprocessing": "data preprocessing",
+      "text embeddings": "text embeddings",
+      "tokenization": "tokenization",
+      "fastapi": "Knowledge of FastAPI or Flask for backend integration.",
+      "flask": "Knowledge of FastAPI or Flask for backend integration."
+    },
+    "pref": {
+      "langgraph": "Experience with LangGraph, CrewAI, or OpenDevin-style agent frameworks.",
+      "crewai": "Experience with LangGraph, CrewAI, or OpenDevin-style agent frameworks.",
+      "mlops": "Exposure to MLOps pipelines (Docker, MLflow, Hugging Face Hub).",
+      "docker": "Exposure to MLOps pipelines (Docker, MLflow, Hugging Face Hub).",
+      "mlflow": "Exposure to MLOps pipelines (Docker, MLflow, Hugging Face Hub).",
+      "pdf parsing": "Knowledge of document loaders, PDF parsing, or knowledge base QA systems.",
+      "prompt optimization": "Understanding of prompt optimization, few-shot learning, and tool use in LLMs.",
+      "few-shot learning": "Understanding of prompt optimization, few-shot learning, and tool use in LLMs."
+    },
+    "resp": {
+      "design and implement llm-powered applications": "Design and implement LLM-powered applications",
+      "develop prompt engineering pipelines": "Develop prompt engineering pipelines",
+      "work with vector databases": "Work with vector databases",
+      "fine-tune or adapt open-source llms": "Fine-tune or adapt open-source LLMs",
+      "integrate ai apis into web or backend systems": "Integrate AI APIs into web or backend systems.",
+      "collaborate with backend teams to deploy ai models": "Collaborate with backend teams to deploy AI models",
+      "analyze and evaluate model performance": "Analyze and evaluate model performance",
+      "write efficient, production-quality python code": "Write efficient, production-quality Python code",
+      "stay up-to-date with advancements in generative ai": "Stay up-to-date with advancements in Generative AI"
+    }
+  },
+  "conf": {
+    "must": {
+      "python": 1.0,
+      "rest apis": 1.0,
+      "json": 1.0,
+      "neural networks": 0.7,
+      "transformers": 0.7,
+      "rag": 0.8,
+      "vector search": 0.8,
+      "embeddings": 0.8,
+      "fine-tuning": 0.8,
+      "model evaluation": 0.8,
+      "nosql": 0.7,
+      "vector databases": 0.7,
+      "problem-solving": 0.9,
+      "analytical abilities": 0.9,
+      "communication skills": 0.8
+    },
+    "req": {
+      "generative ai": 1.0,
+      "large language models": 0.9,
+      "prompt engineering": 0.9,
+      "data preprocessing": 0.8,
+      "text embeddings": 0.8,
+      "tokenization": 0.8,
+      "fastapi": 0.7,
+      "flask": 0.7
+    },
+    "pref": {
+      "langgraph": 0.6,
+      "crewai": 0.6,
+      "mlops": 0.6,
+      "docker": 0.6,
+      "mlflow": 0.6,
+      "pdf parsing": 0.5,
+      "prompt optimization": 0.6,
+      "few-shot learning": 0.6
+    },
+    "resp": {
+      "design and implement llm-powered applications": 0.9,
+      "develop prompt engineering pipelines": 0.9,
+      "work with vector databases": 0.9,
+      "fine-tune or adapt open-source llms": 0.9,
+      "integrate ai apis into web or backend systems": 0.9,
+      "collaborate with backend teams to deploy ai models": 0.9,
+      "analyze and evaluate model performance": 0.9,
+      "write efficient, production-quality python code": 0.9,
+      "stay up-to-date with advancements in generative ai": 0.9
+    }
+  },
+  "hard_gate_evidence": {
+    "degree_required": "B.E. / B.Tech / M.Tech / MCA in Computer Science, Artificial Intelligence, Data Science, or related fields.",
+    "min_years": "Experience: 0â€“1 Years",
+    "license": null,
+    "work_auth": "",
+    "clearance": "",
+    "location_mode": "",
+    "onsite_city": "",
+    "shift": "",
+    "travel": ""
+  }
+}

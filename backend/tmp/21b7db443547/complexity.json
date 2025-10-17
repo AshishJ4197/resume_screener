@@ -1,0 +1,29 @@
+{
+  "scored": [
+    {
+      "name": "Smart Document Chat – AI-powered PDF Q&A System",
+      "complexity": 0.6,
+      "transferability": 0.7,
+      "rationale": "Involves integrating multiple technologies (LangChain, FAISS, React) for a complex task. Transferable skills include AI application, system design, and potentially user workflow understanding."
+    },
+    {
+      "name": "Landslide Detection Using Image Segmentation",
+      "complexity": 0.5,
+      "transferability": 0.5,
+      "rationale": "Uses advanced image segmentation techniques (UNet, Transformer). Transferable skills include data analysis, model building, and potentially dealing with noisy data or edge cases."
+    },
+    {
+      "name": "Real-Time Stock Prediction System",
+      "complexity": 0.7,
+      "transferability": 0.6,
+      "rationale": "Utilizes AWS services (SageMaker, S3, Amplify) for real-time prediction. Transferable skills include cloud deployment, data pipelines, and potentially model optimization or monitoring."
+    },
+    {
+      "name": "Simon Says Game",
+      "complexity": 0.2,
+      "transferability": 0.2,
+      "rationale": "A basic web application using standard technologies. Limited complexity and transferability to most professional roles beyond basic software development principles."
+    }
+  ],
+  "bonus": 0.07799999999999999
+}

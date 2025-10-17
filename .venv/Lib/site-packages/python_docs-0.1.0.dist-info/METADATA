@@ -1,0 +1,50 @@
+Metadata-Version: 2.2
+Name: python-docs
+Version: 0.1.0
+Summary: A short description of your package
+Author-email: Pegleg <pegleg@linux.com>
+Project-URL: Homepage, https://github.com/p3gleg/python-docs
+Project-URL: Bug Tracker, https://github.com/p3gleg/python-docs/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# python-docs
+
+A brief description of what your package does.
+
+## Installation
+
+You can install the package using pip:
+
+```bash
+pip install python-docs
+```
+
+## Usage
+
+Here's a simple example of how to use the package:
+
+```python
+from python_docs import example_function
+
+result = example_function()
+print(result)
+```
+
+## Features
+
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.

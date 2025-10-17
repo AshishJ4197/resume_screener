@@ -1,0 +1,8 @@
+def example_function():
+    """
+    An example function that returns a greeting.
+    
+    Returns:
+        str: A friendly greeting message.
+    """
+    return "Hello from your package!" 

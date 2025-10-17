@@ -1,0 +1,14 @@
+[
+  {
+    "id": "c_01",
+    "semantic": 0.636,
+    "lexical": 1.0,
+    "score": 0.781
+  },
+  {
+    "id": "c_00",
+    "semantic": 0.616,
+    "lexical": 0.871,
+    "score": 0.718
+  }
+]

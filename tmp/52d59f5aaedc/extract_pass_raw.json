@@ -1,0 +1,286 @@
+{
+  "c_01": {
+    "contacts": {
+      "name": null,
+      "email": null,
+      "phone": null,
+      "links": [],
+      "evidence": {
+        "name": "",
+        "email": "",
+        "phone": "",
+        "links": []
+      }
+    },
+    "education": [],
+    "experience": [],
+    "projects": [
+      {
+        "name": "Real-Time Stock Prediction System",
+        "tech": [
+          "aws",
+          "sagemaker",
+          "s3",
+          "amplify",
+          "random",
+          "forest",
+          "regressor"
+        ],
+        "impact": null,
+        "links": [],
+        "evidence": "Real-Time Stock Prediction System (AWS, SageMaker, S3, Amplify, Random Forest Regressor)"
+      },
+      {
+        "name": "Simon Says Game",
+        "tech": [
+          "html",
+          "css",
+          "javascript"
+        ],
+        "impact": null,
+        "links": [],
+        "evidence": "Simon Says Game (HTML, CSS, JavaScript)"
+      }
+    ],
+    "skills": [
+      {
+        "token": "python",
+        "evidence": "Python"
+      },
+      {
+        "token": "java",
+        "evidence": "Java"
+      },
+      {
+        "token": "c++",
+        "evidence": "C++"
+      },
+      {
+        "token": "c",
+        "evidence": "C"
+      },
+      {
+        "token": "javascript",
+        "evidence": "JavaScript"
+      },
+      {
+        "token": "html",
+        "evidence": "HTML"
+      },
+      {
+        "token": "css",
+        "evidence": "CSS"
+      },
+      {
+        "token": "react",
+        "evidence": "React"
+      },
+      {
+        "token": "sql",
+        "evidence": "SQL"
+      },
+      {
+        "token": "mysql",
+        "evidence": "MySQL"
+      },
+      {
+        "token": "postgresql",
+        "evidence": "PostgreSQL"
+      },
+      {
+        "token": "neo4j",
+        "evidence": "Neo4j"
+      },
+      {
+        "token": "aws",
+        "evidence": "AWS"
+      },
+      {
+        "token": "git",
+        "evidence": "Git"
+      },
+      {
+        "token": "pandas",
+        "evidence": "Pandas"
+      },
+      {
+        "token": "opencv",
+        "evidence": "OpenCV"
+      }
+    ],
+    "certifications": [
+      {
+        "token": "Stanford University – Supervised Machine Learning: Regression and Classification",
+        "evidence": "Stanford University – Supervised Machine Learning: Regression and Classification"
+      },
+      {
+        "token": "LangChain Academy – Introduction to LangGraph for Stateful LLM Applications",
+        "evidence": "LangChain Academy – Introduction to LangGraph for Stateful LLM Applications"
+      },
+      {
+        "token": "Skill India – Summer Internship in Android App Development",
+        "evidence": "Skill India – Summer Internship in Android App Development"
+      },
+      {
+        "token": "Neo4j Certified – Fundamentals, Cypher Queries, Graph Data Modeling, Python Integration",
+        "evidence": "Neo4j Certified – Fundamentals, Cypher Queries, Graph Data Modeling, Python Integration"
+      },
+      {
+        "token": "Bootcamp in Machine Learning – Core ML algorithms, model evaluation, deployment",
+        "evidence": "Bootcamp in Machine Learning – Core ML algorithms, model evaluation, deployment"
+      }
+    ],
+    "awards": [
+      {
+        "token": "2nd Place – National Hackathon “Dataset 2024” (Generative AI theme)",
+        "evidence": "2nd Place – National Hackathon “Dataset 2024” (Generative AI theme)"
+      },
+      {
+        "token": "1st Place – “App Marvel” App Development Competition",
+        "evidence": "1st Place – “App Marvel” App Development Competition"
+      }
+    ],
+    "locations": []
+  },
+  "c_00": {
+    "contacts": {
+      "name": "JALADI ASHISH",
+      "email": "ashujaladi5995@gmail.com",
+      "phone": "+91 9493110947",
+      "links": [
+        "https://www.linkedin.com/in/ashish-jaladi-046a3b24a/"
+      ],
+      "evidence": {
+        "name": "JALADI ASHISH",
+        "email": "ashujaladi5995@gmail.com",
+        "phone": "+91 9493110947",
+        "links": [
+          "Linkedin: https://www.linkedin.com/in/ashish-jaladi-046a3b24a/"
+        ]
+      }
+    },
+    "education": [
+      {
+        "degree": "B.Tech",
+        "field": "Computer \nScience \n& \nEngineering (Specialization: AI & ML)",
+        "institution": "Vellore Institute of \nTechnology, Chennai",
+        "start": 2022,
+        "end": null,
+        "location": null,
+        "evidence": "(2022 – Present)\nVellore Institute of \nTechnology, Chennai\nB.Tech \n– \nComputer \nScience \n& \nEngineering (Specialization: AI & ML)"
+      },
+      {
+        "degree": null,
+        "field": "Higher Secondary Board Examination",
+        "institution": "Velammal Vidyalaya,\nChennai",
+        "start": 2020,
+        "end": 2022,
+        "location": null,
+        "evidence": "2020 - 2022\nVelammal Vidyalaya,\nChennai\nHigher Secondary Board Examination"
+      },
+      {
+        "degree": null,
+        "field": "Secondary Board Examination",
+        "institution": "Arya Central School,\nTrivandrum",
+        "start": 2018,
+        "end": 2020,
+        "location": null,
+        "evidence": "2018 - 2020\nArya Central School,\nTrivandrum\nSecondary Board Examination"
+      }
+    ],
+    "experience": [
+      {
+        "title": "AI/ML & Backend Development Intern",
+        "company": "Primesoft Enterprise IT Services Pvt. Ltd., Chennai",
+        "location": null,
+        "start": 2025,
+        "end": 2025,
+        "highlights": [
+          "Contributed to “AI Interview”, an AI-driven chatbot application to automate technical interview processes for \nenterprises.",
+          "Developed backend APIs using FastAPI, ensuring high-performance data handling.",
+          "Managed PostgreSQL (relational) and Neo4j (graph) databases with optimized query performance.",
+          "Integrated LangChain and LangGraph for dynamic question flow and AI-driven evaluation.",
+          "Implemented automated scoring algorithms and candidate evaluation logic, improving interview efficiency by 25%.",
+          "Collaborated with cross-functional teams for scalable deployment and UI/UX optimization."
+        ],
+        "evidence": "AI/ML & Backend Development Intern – Primesoft Enterprise IT Services Pvt. Ltd., Chennai\nMay 2025 – Jul 2025\nContributed to “AI Interview”, an AI-driven chatbot application to automate technical interview processes for \nenterprises."
+      }
+    ],
+    "projects": [
+      {
+        "name": "Smart Document Chat – AI-powered PDF Q&A System",
+        "tech": [
+          "Python",
+          "React",
+          "LangChain",
+          "LangGraph",
+          "FAISS",
+          "PyMuPDF",
+          "PDF.js"
+        ],
+        "impact": null,
+        "links": [],
+        "evidence": "Smart Document Chat – AI-powered PDF Q&A System (Python, React, LangChain, LangGraph, FAISS, \nPyMuPDF, PDF.js)"
+      },
+      {
+        "name": "Landslide Detection Using Image Segmentation",
+        "tech": [
+          "Python",
+          "UNet",
+          "Transformer",
+          "CRFF"
+        ],
+        "impact": null,
+        "links": [],
+        "evidence": "Landslide Detection Using Image Segmentation (Python, UNet, Transformer, CRFF)"
+      },
+      {
+        "name": "Real-Time Stock Prediction System",
+        "tech": [
+          "AWS",
+          "SageMaker",
+          "S3",
+          "Amplify",
+          "Random Forest Regressor"
+        ],
+        "impact": null,
+        "links": [],
+        "evidence": "Real-Time Stock Prediction System (AWS, SageMaker, S3, Amplify, Random Forest Regressor)"
+      }
+    ],
+    "skills": [
+      {
+        "token": "python",
+        "evidence": "Proficient in Python"
+      },
+      {
+        "token": "java",
+        "evidence": "Java"
+      },
+      {
+        "token": "c++",
+        "evidence": "C++"
+      }
+    ],
+    "certifications": [],
+    "awards": [],
+    "locations": [
+      {
+        "token": "chennai",
+        "evidence": "Technology, Chennai"
+      },
+      {
+        "token": "chennai",
+        "evidence": "Vidyalaya,\nChennai"
+      },
+      {
+        "token": "trivandrum",
+        "evidence": "School,\nTrivandrum"
+      },
+      {
+        "token": "chennai",
+        "evidence": "Pvt. Ltd., Chennai"
+      }
+    ]
+  }
+}

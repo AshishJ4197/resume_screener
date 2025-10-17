@@ -1,0 +1,415 @@
+{
+  "c_00": {
+    "contacts": {
+      "name": "jaladi ashish",
+      "email": "ashujaladi5995@gmail.com",
+      "phone": "+91 9493110947",
+      "links": [
+        "https://www.linkedin.com/in/ashish-jaladi-046a3b24a/"
+      ],
+      "evidence": {
+        "name": "jaladi ashish",
+        "email": "ashujaladi5995@gmail.com",
+        "phone": "+91 9493110947",
+        "links": [
+          "https://www.linkedin.com/in/ashish-jaladi-046a3b24a/"
+        ]
+      }
+    },
+    "education": [],
+    "experience": [],
+    "projects": [],
+    "skills": [
+      {
+        "token": "python",
+        "evidence": "proficient in python"
+      },
+      {
+        "token": "java",
+        "evidence": "java"
+      },
+      {
+        "token": "c++",
+        "evidence": "c++"
+      }
+    ],
+    "certifications": [],
+    "awards": [],
+    "locations": []
+  },
+  "c_03": {
+    "contacts": {
+      "name": null,
+      "email": null,
+      "phone": null,
+      "links": [],
+      "evidence": {
+        "name": "",
+        "email": "",
+        "phone": "",
+        "links": []
+      }
+    },
+    "education": [],
+    "experience": [],
+    "projects": [],
+    "skills": [
+      {
+        "token": "python",
+        "evidence": "python"
+      },
+      {
+        "token": "java",
+        "evidence": "java"
+      },
+      {
+        "token": "c++",
+        "evidence": "c++"
+      },
+      {
+        "token": "langchain",
+        "evidence": "langchain"
+      },
+      {
+        "token": "langgraph",
+        "evidence": "langgraph"
+      },
+      {
+        "token": "crewai",
+        "evidence": "crewai"
+      },
+      {
+        "token": "chatollama",
+        "evidence": "chatollama"
+      },
+      {
+        "token": "faiss",
+        "evidence": "faiss"
+      },
+      {
+        "token": "rag pipelines",
+        "evidence": "rag pipelines"
+      },
+      {
+        "token": "prompt engineering",
+        "evidence": "prompt engineering"
+      },
+      {
+        "token": ".net",
+        "evidence": ".net"
+      },
+      {
+        "token": "fastapi",
+        "evidence": "fastapi"
+      },
+      {
+        "token": "node.js",
+        "evidence": "node.js"
+      },
+      {
+        "token": "javascript",
+        "evidence": "javascript"
+      },
+      {
+        "token": "html",
+        "evidence": "html"
+      },
+      {
+        "token": "css",
+        "evidence": "css"
+      },
+      {
+        "token": "react",
+        "evidence": "react"
+      },
+      {
+        "token": "bootstrap",
+        "evidence": "bootstrap"
+      },
+      {
+        "token": "jquery",
+        "evidence": "jquery"
+      },
+      {
+        "token": "sql",
+        "evidence": "sql"
+      },
+      {
+        "token": "mysql",
+        "evidence": "mysql"
+      },
+      {
+        "token": "postgresql",
+        "evidence": "postgresql"
+      },
+      {
+        "token": "neo4j",
+        "evidence": "neo4j"
+      },
+      {
+        "token": "android studio",
+        "evidence": "android studio"
+      },
+      {
+        "token": "unity",
+        "evidence": "unity"
+      },
+      {
+        "token": "latex",
+        "evidence": "latex"
+      },
+      {
+        "token": "power bi",
+        "evidence": "power bi"
+      },
+      {
+        "token": "aws",
+        "evidence": "aws"
+      },
+      {
+        "token": "object-oriented programming (oop)",
+        "evidence": "object-oriented programming (oop)"
+      },
+      {
+        "token": "machine learning",
+        "evidence": "machine learning"
+      },
+      {
+        "token": "pandas",
+        "evidence": "pandas"
+      },
+      {
+        "token": "opencv",
+        "evidence": "opencv"
+      },
+      {
+        "token": "git",
+        "evidence": "git"
+      }
+    ],
+    "certifications": [
+      {
+        "token": "stanford university – supervised machine learning: regression and classification",
+        "evidence": "Stanford University – Supervised Machine Learning: Regression and Classification"
+      },
+      {
+        "token": "langchain academy – introduction to langgraph for stateful llm applications",
+        "evidence": "LangChain Academy – Introduction to LangGraph for Stateful LLM Applications"
+      },
+      {
+        "token": "skill india – summer internship in android app development",
+        "evidence": "Skill India – Summer Internship in Android App Development"
+      },
+      {
+        "token": "neo4j certified – fundamentals, cypher queries, graph data modeling, python integration",
+        "evidence": "Neo4j Certified – Fundamentals, Cypher Queries, Graph Data Modeling, Python Integration"
+      },
+      {
+        "token": "bootcamp in machine learning – core ml algorithms, model evaluation, deployment",
+        "evidence": "Bootcamp in Machine Learning – Core ML algorithms, model evaluation, deployment"
+      }
+    ],
+    "awards": [
+      {
+        "token": "2nd place – national hackathon “dataset 2024” (generative ai theme)",
+        "evidence": "2nd Place – National Hackathon “Dataset 2024” (Generative AI theme)"
+      },
+      {
+        "token": "1st place – “app marvel” app development competition",
+        "evidence": "1st Place – “App Marvel” App Development Competition"
+      }
+    ],
+    "locations": [
+      {
+        "token": "vit chennai",
+        "evidence": "at VIT Chennai"
+      }
+    ]
+  },
+  "c_02": {
+    "contacts": {
+      "name": null,
+      "email": null,
+      "phone": null,
+      "links": [],
+      "evidence": {
+        "name": "",
+        "email": "",
+        "phone": "",
+        "links": []
+      }
+    },
+    "education": [],
+    "experience": [],
+    "projects": [
+      {
+        "name": "Smart Document Chat – AI-powered PDF Q&A System",
+        "tech": [
+          "python",
+          "react",
+          "langchain",
+          "langgraph",
+          "faiss",
+          "pymupdf",
+          "pdf.js"
+        ],
+        "impact": null,
+        "links": [],
+        "role": null,
+        "duration": null,
+        "highlights": [
+          "built an interactive chatbot assistant capable of answering questions with textbook-style responses and sentence-\nlevel evidence highlighting directly in pdfs.",
+          "designed a two-pass rag pipeline using langchain + langgraph with faiss for retrieval and reasoning + teaching\nanswer generation.",
+          "implemented spacy + syntok-based segmentation with structural repair and coverage-aware cleaning for precise\nevidence mapping.",
+          "integrated a react frontend with pdf.js for seamless navigation, page-level scrolling, and robust annotation\ndisplay."
+        ],
+        "evidence": "smart document chat – ai-powered pdf q&a system (python, react, langchain, langgraph, faiss,\npymupdf, pdf.js)"
+      },
+      {
+        "name": "Landslide Detection Using Image Segmentation",
+        "tech": [
+          "python",
+          "unet",
+          "transformer",
+          "crff"
+        ],
+        "impact": null,
+        "links": [],
+        "role": null,
+        "duration": null,
+        "highlights": [
+          "developed a unet-based segmentation model with transformer and cross-feature fusion for satellite imagery\nanalysis.",
+          "achieved f1-score 93.8% and iou 83.5% on landslide4sense dataset, surpassing benchmarks.",
+          "used coordinate attention blocks and edge enhancement for improved precision.",
+          "processed 14-band hdf5-formatted images for training and evaluation."
+        ],
+        "evidence": "landslide detection using image segmentation (python, unet, transformer, crff)"
+      },
+      {
+        "name": "Real-Time Stock Prediction System",
+        "tech": [
+          "aws",
+          "sagemaker",
+          "s3",
+          "amplify",
+          "random forest regressor"
+        ],
+        "impact": null,
+        "links": [],
+        "role": null,
+        "duration": null,
+        "highlights": [
+          "built a cloud-based system for real-time stock price prediction and bollinger band-based volatility analysis.",
+          "trained and deployed a random forest regressor on aws sagemaker using historical market data for robust\nforecasting.",
+          "utilized lambda, kinesis, step functions, and dynamodb for scalable automation and real-time data processing."
+        ],
+        "evidence": "real-time stock prediction system (aws, sagemaker, s3, amplify, random forest regressor)"
+      },
+      {
+        "name": "Simon Says Game",
+        "tech": [
+          "html",
+          "css",
+          "javascript"
+        ],
+        "impact": null,
+        "links": [],
+        "role": null,
+        "duration": null,
+        "highlights": [
+          "built an interactive simon says game with engaging and dynamic gameplay.",
+          "implemented intuitive user interfaces for smooth interaction and visual feedback.",
+          "added a navigation system to a separate page for game rules, with responsive design and flashing buttons to show\nuser presses."
+        ],
+        "evidence": "simon says game (html, css, javascript) [demo]"
+      }
+    ],
+    "skills": [],
+    "certifications": [],
+    "awards": [],
+    "locations": []
+  },
+  "c_01": {
+    "contacts": {
+      "name": null,
+      "email": null,
+      "phone": null,
+      "links": [],
+      "evidence": {
+        "name": "",
+        "email": "",
+        "phone": "",
+        "links": []
+      }
+    },
+    "education": [
+      {
+        "degree": "b.tech",
+        "field": "computer science & engineering (specialization: ai & ml)",
+        "institution": "vellore institute of technology, chennai",
+        "start": 2022,
+        "end": null,
+        "location": null,
+        "evidence": "vellore institute of\ntechnology, chennai\nb.tech\n–\ncomputer\nscience\n&\nengineering (specialization: ai & ml)"
+      },
+      {
+        "degree": "higher secondary board examination",
+        "field": null,
+        "institution": "velammal vidyalaya, chennai",
+        "start": 2020,
+        "end": 2022,
+        "location": null,
+        "evidence": "2020 - 2022\nvelammal vidyalaya,\nchennai\nhigher secondary board examination"
+      },
+      {
+        "degree": "secondary board examination",
+        "field": null,
+        "institution": "arya central school,\ntrivandrum",
+        "start": 2018,
+        "end": 2020,
+        "location": null,
+        "evidence": "2018 - 2020\narya central school,\ntrivandrum\nsecondary board examination"
+      }
+    ],
+    "experience": [
+      {
+        "title": "ai/ml & backend development intern",
+        "company": "primesoft enterprise it services pvt. ltd.",
+        "location": "chennai",
+        "start": 2025,
+        "end": 2025,
+        "highlights": [
+          "contributed to “ai interview”, an ai-driven chatbot application to automate technical interview processes for\nenterprises.",
+          "developed backend apis using fastapi, ensuring high-performance data handling.",
+          "managed postgresql (relational) and neo4j (graph) databases with optimized query performance.",
+          "integrated langchain and langgraph for dynamic question flow and ai-driven evaluation.",
+          "implemented automated scoring algorithms and candidate evaluation logic, improving interview efficiency by 25%.",
+          "collaborated with cross-functional teams for scalable deployment and ui/ux optimization."
+        ],
+        "evidence": "ai/ml & backend development intern – primesoft enterprise it services pvt. ltd., chennai\nmay 2025 – jul 2025"
+      }
+    ],
+    "projects": [],
+    "skills": [],
+    "certifications": [],
+    "awards": [],
+    "locations": [
+      {
+        "token": "chennai",
+        "evidence": "technology, chennai"
+      },
+      {
+        "token": "chennai",
+        "evidence": "velammal vidyalaya,\nchennai"
+      },
+      {
+        "token": "trivandrum",
+        "evidence": "arya central school,\ntrivandrum"
+      },
+      {
+        "token": "chennai",
+        "evidence": "pvt. ltd., chennai"
+      }
+    ]
+  }
+}

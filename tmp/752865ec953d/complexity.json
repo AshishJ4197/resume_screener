@@ -1,0 +1,29 @@
+{
+  "scored": [
+    {
+      "name": "Smart Document Chat – AI-powered PDF Q&A System",
+      "complexity": 0.7,
+      "transferability": 0.9,
+      "rationale": "RAG pipeline using Langchain+LangGraph, FAISS, PDF processing, React frontend. Directly relevant to the JD's focus on LLM applications, RAG, vector DBs, and Python."
+    },
+    {
+      "name": "Real-Time Stock Prediction System",
+      "complexity": 0.5,
+      "transferability": 0.3,
+      "rationale": "AWS Sagemaker deployment, data processing pipeline. Some overlap with cloud services and data processing, but less directly relevant to generative AI."
+    },
+    {
+      "name": "Landslide Detection Using Image Segmentation",
+      "complexity": 0.6,
+      "transferability": 0.2,
+      "rationale": "U-Net, Transformer, image segmentation.  Involves neural networks, but the application domain and specific techniques are less relevant to the generative AI focus."
+    },
+    {
+      "name": "Simon Says Game",
+      "complexity": 0.1,
+      "transferability": 0.0,
+      "rationale": "Basic web development skills.  Not relevant to the generative AI engineer role."
+    }
+  ],
+  "bonus": 0.096
+}
